@@ -4,7 +4,10 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "Pocketbase",
-    "slug": "Pocketbase"
+    "name": "myapp",
+    "slug": "myapp",
+    "android": {
+      "package": "com.gaganbiswas.myapp"
+    }
   }
 }
